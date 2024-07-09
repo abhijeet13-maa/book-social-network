@@ -60,18 +60,6 @@ Book Social Network is a full-stack application that enables users to manage the
 - OpenAPI Generator for Angular
 - Bootstrap
 
-## License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
-
-## Getting Started
-
-To get started with the Book Social Network project, follow the setup instructions in the respective directories:
-
-- [Backend Setup Instructions](/book-network/README.md)
-- [Frontend Setup Instructions](book-network-ui/README.md)
 
 
-## Acknowledgments
 
-Special thanks to the developers and maintainers of the technologies used in this project. Their hard work and dedication make projects like this possible.
